@@ -1,0 +1,51 @@
+PBO/OOP
+
+PBO, Bahasa program yang akan digunakan adalah C++, krn mendasari bahasa Java, Dart (Android), Python (AI), Kotlin (Android), C# (Game) dll.
+
+C++ digunakan dalam olimpiade informatika, 
+
+Struktur : 
+Header 
+class 
+objek
+
+Perbedaan dengan Pascal (bahasa pemrograman struktural) sedangkan C++ (bahasa berbasis objek)
+
+Simbol dalam pemrograman C++ : 
+() = tanda kurung
+{} = kurung kurawal 
+[] = kurung siku
+; = titik koma/semicolon
+' = aphostrophe
+" = petik
+<< = output
+>> = input
+
+Tipe Data, pengelompokkan data/pembagian data
+Variabel, peubah, identifier mewakili tipe data.
+
+Tipe Data Primitif :
+int = bilangan bulat
+float/double = bilangan cacah, bilangan pecahan.
+char = karakter.
+string = kalimat 
+boolean = hnya bernilai true dan false 
+
+
+Tipe Data Jamak/Majemuk :
+array = tipe data majemuk yang mewakili satu jenis tipe data
+record = tipe data majemuk yang mewakili banyak jenis tipe data
+
+Header, bisa disebut juga dengan library digunakan untuk memanggil function - function lainnya.
+Dimulai dengan #include<> 
+1. Header iostream (input output stream), terdapat function cout (untuk membuat output) dan cin (untuk membuat input).
+2. Header math, untuk function matematis.
+3. Header stdio (standard input output), terdapat function printf (untuk membuat output) dan scanf untuk membuat input), 
+
+Variabel dalam C++ adalah objek
+int angka = 10;
+int adalah tipe data,
+angka variabelnya
+10 adalah valuenya
+
+Didalam C++ ada variabel lokal (didalam sebuah function) dan global (diluar function).

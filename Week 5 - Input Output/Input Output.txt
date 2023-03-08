@@ -1,0 +1,113 @@
+Menggambungkan Input dan Output.
+
+
+
+Soal No 1
+Malvin memiliki uang 1250, ia ingin membeli permen sebanyak 10 harga satu permen adalah 130, berapakah kembaliannya
+buatlah dalam sebuah program c++ untuk menghitung hal tersebut (point 20)
+
+
+Soal No 2
+Buatlah sebuah program utk menghitung presentase masuknya siswa SMP ke SMA Kanaan dengan asumsi (jumlah SMA di Banjarmasin ada 20) (Point 70)
+Clue : Hasil 1/20= 5%
+
+
+
+Tugas
+
+
+
+
+
+1. Nael **
+2. Justin **
+3. Jeslyn**        
+4. Cindy **
+Celine **
+Kalya **
+Evelyn**
+Valen ** 
+Ressya **
+Paramitha Rusadi
+Bernesa**
+Deiglory **
+Felysta **
+Steven 
+Malvin **
+Lyndon 
+Hans **
+Tifern**
+Daniel 
+Niel
+X IPS 1
+Operator Aritmatika, adalah operator yang digunakan untuk perhitungan 
++, tambah
+-, kurang
+*, kali
+/, bagi
+
+Operand, adalah nilai yang dioperasikan oleh operator, contoh :
+2*2 = 4
+Angka 2 dan 4 adalah operand
+sedangkan * dan = adalah operator
+
+
+Operator Perbandingan
+> (Lebih dari)
+< (Kurang dari)
+>= (Lebih dari sama dengan)
+<= (Kurang dari sama dengan)
+== (Sama dengan)
+=! (Tidak sama dengan)
+
+Contoh :
+> 3 = 4,5,6,7, dst 
+< 3 = 2,1,0,-1 dst
+>= 3 : 3,4,5,6 dst
+<= 3 : 3,2,1,0 dst 
+3 < 2, 	false 
+3 <= 3, true
+3 != 2, true 
+3 == 4, false 
+ didalam C++ (0, untuk false 1 untuk true)
+= Assign value 
+int angka = 3;
+int angka == 3;
+
+
+
+Tambahkan 2+2, 2-2
+1. Steven **
+2. Kenji
+3. Nadine **
+4. Karina **
+5. Gilbert
+Michelle ***
+Kenneth
+Nicholas 
+Alexandra **
+Joyner**  
+Karen**
+Hellena **
+Sefany **
+Annya **
+Chelsya **
+Julieta **
+Ryu 
+Michael
+Marcel
+Aurelllia
+Jason
+Andre **
+
+
+Soal No2 
+Marcell Memiliki Uang 12500, ia ingin membeli 10 permen dengan harga 1225/permen, berapakah kembaliannya, buatlah perhitungan dengan C++
+
+
+
+
+
+
+
+

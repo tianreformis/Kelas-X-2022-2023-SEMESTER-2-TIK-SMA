@@ -1,0 +1,68 @@
+1. tipe data, Pembagian jenis data 
+primitif : int (bilangan bulat), string (kalimat), char (karakter), bool (benar/salah), real/double/float (bilangan rill/mengandung koma),
+Jamak : array (tipe data jamak sejenis), record (jamak beda jenis)
+int array [0..29] 
+record [int, string]
+[] = kurung siku
+{} = kurung kurawal
+' = aphostrophe
+" = petik
+/ = slash
+\ =backslash
+; = titik koma/semicolon
+() = kurung
+
+2. variabel, manifestasi dari tipe data 
+3. function/class
+4. separator, pemisah
+
+
+
+
+
+
+Bahasa Pemrograman C++
+1. Dasar dari semua pemrograman, Java, C#, Python, Dart, Kotlin, R, Swift
+2. Digunakan dalam KSN Informatika, Competitive Programming.
+
+3. Struktur C++
+#include <iostream> 
+int main() { //begin of function
+
+}//end of function
+
+4. Penjelasan Header/Library
+
+Dimulai dengan #, pasti paling atas
+Contoh : iostream (input output stream)
+didalam iostream ada cout dan cin.
+cout artinya output untuk menampilkan sesuatu
+cin artinya input untuk memasukkan sesuatu.
+
+stdio (standard input output)
+math (untuk perhitungan)
+
+variabel lokal dan global
+
+5. cara deklarasi variabel
+a. langsung value
+#include <iostream>
+int main() {
+    using namespace std;
+    int angka =10;
+    cout<<angka;
+    return 0;
+}
+b. tanpa value
+#include <iostream>
+int main() {
+    using namespace std;
+    int angka;
+    cout<<angka;
+    return 0;
+}
+c. undefinied value /nilai yang tidak terdefinisi
+int = 0
+float = 0.0
+string = null
+yang lain = nullExceptionPoint

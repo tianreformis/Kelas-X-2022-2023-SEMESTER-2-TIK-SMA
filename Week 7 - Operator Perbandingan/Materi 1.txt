@@ -1,0 +1,52 @@
+Operator Aritmatika 
+Mod, Modulus (sisa bagi) (hanya untuk int)
+10/5 = 2 (sisa bagi 0)
+10 mod 5 = 0
+10 mod 4 = 2
+10 mod 6 = 4
+10 mod 3 = 1
+10 mod 7 = 3
+
+Rumus bilangan genap
+a mod 2 = 0 
+
+Rumus Bilangan ganjil
+a mod 2 = 1
+
+
+Operator Perbandingan
+>, Lebih dari
+<, Kurang dari
+>=, Lebih dari sama dengan
+<=, Kurang dari sama dengan
+==, Sama dengan
+!=, tidak sama dengan
+
+Rica == Ricardo, False 
+Rica != Ricardo, True
+12 > 13, False 
+Hillary > Amanda, (tidak benar).
+>=13, 13, 14, 15 dst (Jawaban Matematis)
+>=13 (infinite loop, didalam komputer)
+>=13.01 (13.01, 13.02, 13.03 dst)
+>13 <16 = 14,15
+(int a>13 ; a < 16; a++)
+
+
+Operator Logika
+1. or, Jika salah satu bernilai true, maka true (||)
+2. and, jika salah satu bernilai false, maka false. (&&)
+3. nand, not and, hasil and dibalik 
+4. nor, not or, hasil or dibalik
+5. not, negasi (!)
+6. xor, executive or
+7. x-nor, not executive or,
+
+Latihan :
+1. !(a && b) || (c || d), buat tabel kebenaran (hasilnya t dan f). DAN BUATLAH PROGRAMNYA MENGGUNAKAN C++, PROGRAM DIBUAT MINGGU DEPAN.
+2. (e&&c) || (g || h)
+
+Tambahan catatan
+didalam C++
+untuk false, itu diartikan 0
+untuk true diartika 1.
